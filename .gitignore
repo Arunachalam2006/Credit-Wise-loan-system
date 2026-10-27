@@ -1,0 +1,10 @@
+# Dataset (not pushed to GitHub)
+loan_approval_data.csv
+*.csv
+data/
+
+# Python / Jupyter clutter
+__pycache__/
+.ipynb_checkpoints/
+.venv/
+*.pyc
