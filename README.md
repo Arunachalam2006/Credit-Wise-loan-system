@@ -50,4 +50,5 @@ jupyter notebook Credit_wise.ipynb
 - `Credit_wise.ipynb`: full workflow from cleaning to model evaluation
 
 ## Author
-Arun
+S Arunachalam
+
