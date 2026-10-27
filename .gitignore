@@ -8,3 +8,6 @@ __pycache__/
 .ipynb_checkpoints/
 .venv/
 *.pyc
+
+# Problem statement PDFs (kept local, not pushed)
+*.pdf

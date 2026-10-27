@@ -48,7 +48,6 @@ jupyter notebook Credit_wise.ipynb
 
 ## Files
 - `Credit_wise.ipynb`: full workflow from cleaning to model evaluation
-- `CreditWise Loan System.pdf`: problem statement and data dictionary
 
 ## Author
 Arun
